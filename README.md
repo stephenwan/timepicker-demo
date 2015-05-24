@@ -1,31 +1,33 @@
-# Basics of angular directives
+# Coding a timepicker in AngularJs
 
-## Syntax
+## Basics of angular directives
 
-## Template
+1. Syntax
 
-## Link function
+2. Template
 
-## Scope
+3. Link function
 
-## Controller function
+4. Scope
+
+5. Controller function
 
 
-# Creating a timepicker
+## Creating a timepicker
 
-## Problems
+### Problems
 
-### Respond to time format (meridian)
+1. Respond to time format (meridian)
 
-### Validation
+2. Validation
 
-### Mouse & Keyboard support
+3. Mouse & Keyboard support
 
-## ngModels 
+### ngModels 
 
-### How does it work
+1. How does it work
 
-### Customize ngModel for timepicker
+2. Customize ngModel for timepicker
 
-# Testing a timepicker
+## Testing a timepicker
 
