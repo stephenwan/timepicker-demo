@@ -27,6 +27,20 @@
 
 1. How does it work
 
+  ``` 
+  
+  <realModel> → ngModelCtrl.$formatters(realModel) → $viewModel
+                                                       ↓
+  ↑                                                  $render()
+                                                       ↓
+  ↑                                                  UI changed
+                                                       ↓
+  ngModelCtrl.$parsers(newViewModel)    ←    $setViewModel(newViewModel)
+  
+  ```
+  
+  [Ref: chroder](http://www.chroder.com/2014/02/01/using-ngmodelcontroller-with-custom-directives/)
+
 2. Customize ngModel for timepicker
 
 ## Testing a timepicker
