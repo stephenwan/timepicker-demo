@@ -10,7 +10,12 @@
 
 4. Scope
 
+  [Isolated Scope](http://www.bennadel.com/blog/2725-how-scope-broadcast-interacts-with-isolate-scopes-in-angularjs.htm)  
+
 5. Controller function
+  
+  [Order between Compile, Controller, Link](http://jasonmore.net/angular-js-directives-difference-controller-link/)  
+
 
 
 ## Creating a timepicker
