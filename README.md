@@ -3,6 +3,8 @@
 ## Basics of angular directives
 
 1. Syntax
+  
+  [Little Demo](http://jsfiddle.net/joshdmiller/FHVD9/)
 
 2. Template
 
